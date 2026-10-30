@@ -6,7 +6,7 @@
 ![Status: Completed](https://img.shields.io/badge/Status-Completed-success.svg)
 
 ## Contributors
-This BTP project is done by Prayansh Kumar(230101081) and Ritvij Gopal(230101085) under the supervision of Proffesor Pinaki Mitra
+This BTP project is done by Prayansh Kumar(230101081) and Ritvij Gopal(230101085) under the supervision of Professor Pinaki Mitra
 
 ## 📌 Project Overview
 This repository contains the source code, experimental data, and analytical scripts for a comprehensive B.Tech project evaluating the cryptographic security, statistical randomness, and computational efficiency of the **Micali-Schnorr Pseudorandom Bit Generator (PRBG)** against the classical **Standard 1-Bit RSA Generator**. 
