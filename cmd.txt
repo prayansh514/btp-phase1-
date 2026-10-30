@@ -1,0 +1,3 @@
+g++ lfsr.cpp -o lfsr.exe
+./lfsr
+
